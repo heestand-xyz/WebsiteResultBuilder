@@ -1,7 +1,7 @@
     import XCTest
-    @testable import WebResultBuilder
+    @testable import WebsiteResultBuilder
 
-    final class WebResultBuilderTests: XCTestCase {
+    final class WebsiteResultBuilderTests: XCTestCase {
         func testExample() {
             
             #if os(macOS)
